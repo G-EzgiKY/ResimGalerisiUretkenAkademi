@@ -1,3 +1,4 @@
 # ResimGalerisiUretkenAkademi
 
 STİLLENDİRME, FONKSİYONLAR VE DÖNGÜLER KULLANARAK SAYFA YENİLENDİKÇE RESİMLERİN RASTGELE BİR ŞEKİLDE DEĞİŞTİĞİ RESİM GALERİSİ YAPTIM.
+DEMO SAYFAYA BURADAN ULAŞABİLİRSİNİZ: https://g-ezgiky.github.io/ResimGalerisiUretkenAkademi/
